@@ -1,0 +1,21 @@
+.tit{
+    text-align: center;
+}
+
+.desc{
+    background-color: red;
+    text-align: right;
+}
+
+.list{
+    text-align: center;
+}
+
+body{
+    font-family: system-ui, sans-serif;
+    background-color: pink;
+}
+
+.realizada{
+    text-decoration: line-through;
+}
